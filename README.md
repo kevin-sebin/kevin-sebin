@@ -1,19 +1,14 @@
-<h1 align="center">Hi there 👋, I'm Kevin Sebin</h1>
+<h1 align="center">Hi there, I'm Kevin Sebin</h1>
 
 <p align="center">
-  🚀 Aspiring Machine Learning Engineer | 💻 Python Enthusiast | 🎓 B.Tech CS Student (Graduating April 2026)<br>
-  📍 From India | Currently building my way into the Data Science & AI world
+  🚀 Aspiring Machine Learning Engineer | 💻 Python Enthusiast |
 </p>
 
 ---
 
 ### 🔍 About Me
 
-- 🎯 **Goal**: Become job-ready and FAANG-level skilled in Data Science & Machine Learning by **end of 2025**
-- 🏋️‍♂️ Fitness Focus: Naturally bulking to 65kg, muscular look by year-end 💪 (Indian diet + gym plan)
-- 🧠 Always curious about: `Machine Learning`, `AI`, `Computer Vision`, `Reinforcement Learning`, `NLP`
-- 📱 Tech switcher: Moved to iPhone 16 Pro from Android recently
-- 🧑‍🏫 Helping others: Guiding students on career paths in biotech, AI, and beyond
+- 🎯 Driven by a deep passion for Machine Learning, Artificial Intelligence, and Computer Vision, with a strong command of Python programming. Focused on building high-impact AI solutions that tackle complex real-world challenges. Committed to continuous learning, pushing technological boundaries, and leveraging innovation to drive meaningful change.
 
 ---
 
@@ -21,10 +16,6 @@
 
 - 💻 Languages: `Python`, `C`, `SQL`, `HTML/CSS`
 - 📊 ML/DS: `scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
-- 🧠 Learning: `Reinforcement Learning`, `LSTM`, `Sentiment Analysis`, `Stock Market Prediction`
-- 🔧 Databases: `MySQL`, `MariaDB`, `NoSQL`
-- 💻 OS Concepts: `Banker’s Algorithm`, `Shell Scripting`, `8051 Microcontroller`
-- 📲 Platforms: `Ubuntu`, `Windows`, `XAMPP`, `Figma`
 
 ---
 
@@ -37,28 +28,9 @@
 
 ---
 
-### 🧪 Cool Projects in Progress
+### 🧪 Projects in Progress
 
-- 🎼 **Classical Music Generator** using Debussy MIDI + LSTM
-- 📈 **Stock Market Bot** using Linear Regression (custom-built from scratch)
 - 😄 **Emotion Classification Model** using LSTM with GloVe embeddings (manual matrix flow + loss)
-
----
-
-### 🗂️ Academic Work
-
-- 🧾 DBMS Projects: ERDs, Normalization, SQL Joins/Subqueries/Constraints
-- 🧠 ML Algorithms Mastered:
-  - `Naive Bayes`, `Linear/Logistic Regression`, `KNN`, `K-Means`, `K-Medoids`, `DBSCAN`
-- 🧪 Operating Systems: C programs, Process Scheduling, Memory Management
-
----
-
-### 🎯 Roadmaps & Goals
-
-- 📅 **DS/ML Mastery Roadmap**: Following a custom 365-day plan (currently in advanced ML stage)
-- 🧑‍🎓 FAANG Interview Prep: Started 6-month FAANG-ready prep series (Data Structures & Algorithms)
-- ⏳ Short-Term Goal: Launch a unique final year ML project by end of semester
 
 ---
 
@@ -74,11 +46,10 @@
 ### 📫 Connect with Me
 
 - 📧 Email: kevinsebin@example.com *(replace with your real one)*
-- 📝 LinkedIn: [linkedin.com/in/kevinsebin](https://www.linkedin.com/)
-- 💬 Ask me about: `AI`, `ML`, `Deep Learning`, `Python`, `Fitness`, `Study Abroad`
+- 📝 LinkedIn: [https://www.linkedin.com/in/kevin-sebin/](https://www.linkedin.com/)
 
 ---
 
-> “Code. Train. Repeat. The grind never stops.” 🚀  
+> “Code. Train. Repeat. The grind never stops.”  
 > – Kevin Sebin
 
