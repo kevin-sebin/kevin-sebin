@@ -14,7 +14,10 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- 💻 Languages: `Python`, `C`, `SQL`, `HTML/CSS`
+- 💻 Languages: ![Python](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![HTML/CSS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - 📊 ML/DS: `scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`
 
 ---
@@ -45,7 +48,7 @@
 
 ### 📫 Connect with Me
 
-- 📧 Email: kevinsebin@example.com *(replace with your real one)*
+- 📧 Email: kevinsebinranger@gmail.com
 - 📝 LinkedIn: [https://www.linkedin.com/in/kevin-sebin/](https://www.linkedin.com/)
 
 ---
