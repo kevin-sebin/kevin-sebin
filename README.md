@@ -61,7 +61,3 @@
 - 📝 LinkedIn: [https://www.linkedin.com/in/kevin-sebin/](https://www.linkedin.com/)
 
 ---
-
-> “Code. Train. Repeat. The grind never stops.”  
-> – Kevin Sebin
-
