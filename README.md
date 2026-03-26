@@ -1,7 +1,7 @@
 <h1 align="center">Kevin Sebin</h1>
 
 <p align="center">
-  ML/DL researcher | software dev |
+  ML/DL researcher | Software Dev |
 </p>
 
 ---
