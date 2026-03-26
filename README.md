@@ -21,9 +21,9 @@
 
 ### About Me
 
-Passionate about building high-impact software at the intersection of **Machine Learning**, **Deep Learning**, and **Software Engineering**. I enjoy understanding systems from first principles — whether that's manually deriving LSTM backpropagation, implementing ML algorithms from scratch with paper-and-pen math, or grinding DSA problems toward FAANG-level interview readiness.
+Driven by a deep passion for **Software Development**, **Deep Learning**, with a strong command of **Python** programming. Focused on building high-impact solutions that tackle complex real-world challenges. Committed to continuous learning, pushing technological boundaries, and leveraging innovation to drive meaningful change.
 
-Currently targeting **SDE-1 roles** at top-tier product companies, with a focus on Amazon.
+Currently targeting **SDE-1 roles**.
 
 ---
 
