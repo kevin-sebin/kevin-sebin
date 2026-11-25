@@ -1,4 +1,4 @@
-# Kevin Sebin
+<h1 align="center">Kevin Sebin</h1>
 
 <p align="center">
   <b>Software Engineer Aspirant · Backend Developer · ML/LLM Researcher</b><br/>
